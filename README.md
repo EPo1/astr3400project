@@ -16,3 +16,4 @@ Put a *** at the front of the bullet point when you have completed it
 - plot graphs again but for radius on the x axis instead of the y axis as this may reveal something that wasn't obvious before
 - look at notes for astr3400 to see examples of project and bullet points of what we need in the outline and presentation
 - look at the classes in MESA to see what to do next in order to next or to see if there is anything that may be useful in further explaining the data we have
+- graph ratios of CNO and PP chain against each other

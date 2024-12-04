@@ -8,7 +8,7 @@ Put a *** at the front of the bullet point when you have completed it
 - ***figure out how to copy/download folders in Scorpius and send them to someone else
 - analysis of the graphs using graphs of pp and cno processes
 - outline refinment and presentation completion
-- try and make a graph of the mass against time
+- try and make a graph of the mass against time (Can't be done)
 - animation of the graphs
 - why are there patterns inbetween elements in the big graph and why do the changes places for more mass accreted onto the star
 - why is there a peak in he3 for certain masses because of the pp chain

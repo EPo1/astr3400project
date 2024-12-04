@@ -1,0 +1,17 @@
+How to run
+
+\
+Clone repository to get tested mass files and profile data
+  - git clone https://github.com/EPo1/astr3400project.git
+  - Copy the #Mass_##M files to local directory to where you want path to be set
+
+\
+Access the evolve_both_stars MESA test suite
+  - Show the files 
+    - ls /opt/mesa/mesa-r23.05.1/binary/test_suite
+- Copy the evolve_both_stars suite to your local machine
+  - cp -r /opt/mesa/mesa-r23.05.1/binary/test_suite/evolve_both_stars ~/.
+  - cd evolve_both_stars
+- Get into file to change values 
+
+

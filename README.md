@@ -5,7 +5,7 @@ NEED TO DO NEXT:
 Put a *** at the front of the bullet point when you have completed it
 
 - ***make graph of pp and cno chain against radius 
-- figure out how to copy/download folders in Scorpius and send them to someone else
+- ***figure out how to copy/download folders in Scorpius and send them to someone else
 - analysis of the graphs using graphs of pp and cno processes
 - outline refinment and presentation completion
 - try and make a graph of the mass against time

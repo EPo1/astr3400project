@@ -15,26 +15,3 @@ The CNO cycle is highly temperature-sensitive, with energy generation rates scal
 
 ---
 
-### Dependence on Core Mass (\( M_c \))
-
-The parameter \( M_c \), likely representing stellar core
-The parameter \( M_c \), likely representing stellar core mass, plays a crucial role in determining the central density (\( \rho_c \)) and temperature (\( T_c \)).  
-Larger \( M_c \) values result in higher gravitational compression, which increases the core’s density and temperature.  
-This in turn enhances fusion rates, especially for the CNO cycle.  
-The graph reflects this dependency: as \( M_c \) increases, the peak energy generation near \( \log(\text{Radius}) \approx 0 \) becomes significantly higher, indicating more intense fusion in the core.  
-The rapid decline in energy generation at larger radii reflects the steep drop in density and temperature outside the core.  
-
-The steep peak near \( \log(\text{Radius}) \approx 0 \) represents the stellar core, where nearly all energy generation occurs.  
-This is consistent with the central concentration of fusion in stars.  
-For larger \( M_c \), this peak shifts higher, emphasizing the stronger fusion activity in massive cores.  
-The smaller peaks or variations farther out may represent shell-burning zones, such as hydrogen-burning shells surrounding an inert helium core or helium-burning shells surrounding a carbon-oxygen core.  
-These features suggest the star is in an evolved phase, such as a red giant or asymptotic giant branch (AGB) star, where fusion occurs in concentric shells outside the core.  
-
-Beyond the core and shell-burning regions, energy generation decreases rapidly, as expected due to the lower temperatures and densities at greater distances from the center.  
-This drop-off in energy generation, combined with the secondary peaks, highlights the structural changes stars undergo as they evolve.  
-Main sequence stars primarily generate energy in their cores, but post-main sequence stars exhibit more complex structures with additional burning regions.  
-
-Overall, the graph illustrates how core mass (\( M_c \)) influences the distribution and intensity of energy generation in stars.  
-It highlights the dominance of the CNO cycle in massive stars and its extreme sensitivity to core temperature and mass.  
-The steep central peak and the additional shell-burning features provide insights into the physical processes occurring at different stages of stellar evolution.  
-This understanding is crucial for modeling the life cycles of stars and the role of core mass in driving stellar structure and fusion processes.  

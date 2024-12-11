@@ -13,5 +13,18 @@ Access the evolve_both_stars MESA test suite
   - cp -r /opt/mesa/mesa-r23.05.1/binary/test_suite/evolve_both_stars ~/.
   - cd evolve_both_stars
 - Get into file to change values 
+  -type 'nano inlist_project' to get into file
+-Under '&binary_controls' ONLY change M1 mass, will look like this:
+  -  m1 = 1.0d0  ! donor mass in Msun                          
+       m2 = 0.8d0 ! companion mass in Msun
+-  To run the code 
+    ./mk
+    ./rn
+
+- after the code is finished running for hopefully all 28 profile datas, take all the profiledata nd copy it over to a new file in the 
+  evolve_both_stars called something like Mass_1M then run again using mass like m1=1.1d0 and repeat. After this then start the analysis
+- also need to download the py_mesa_reader in the HOME. look at the last part of Lab 5 to do this
+
+-Was looking into changing log output to somehow make then output into a new directory each time, but unable to find solution, currently it's set to a single path, and each new instance ovverrides the old profile data.
 
 
